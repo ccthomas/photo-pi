@@ -1,4 +1,4 @@
-# PhotoPy
+# PhotoPie
 Photo Editor and Blender Pluggin converting 2D images to 3D models
 - [Version](#version)
 - [License](#license)
